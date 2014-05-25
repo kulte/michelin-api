@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  stars: 1
+  comfort: 1
+  district_id: 1
+  area_id: 1
+
+two:
+  name: MyString
+  stars: 1
+  comfort: 1
+  district_id: 1
+  area_id: 1
