@@ -40,6 +40,8 @@ gem 'spring',        group: :development
 
 gem 'active_model_serializers'
 
+gem 'kaminari'
+
 gem 'mechanize'
 
 gem 'pry', group: :development

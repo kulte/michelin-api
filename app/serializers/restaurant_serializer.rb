@@ -1,4 +1,4 @@
-class RestaurantSerializer < ActiveModel::Serializer
+class RestaurantSerializer < ApplicationSerializer
   attributes :id, :name, :stars, :comfort, :chef, :area_name, :district_name
 
   def area_name

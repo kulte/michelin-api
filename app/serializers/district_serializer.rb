@@ -1,4 +1,4 @@
-class DistrictSerializer < ActiveModel::Serializer
+class DistrictSerializer < ApplicationSerializer
   attributes :id, :name
   has_many :restaurants
 end
